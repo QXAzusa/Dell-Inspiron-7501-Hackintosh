@@ -1,6 +1,5 @@
 # Dell Inspiron 7501 Hackintosh
 
-## 
 |||
 |  ----  | ----  |
 |CPU|Intel Core i5-1300H|
