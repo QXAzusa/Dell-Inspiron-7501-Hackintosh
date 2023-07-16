@@ -2,7 +2,7 @@
 
 |||
 |  ----  | ----  |
-|CPU|Intel Core i5-1300H|
+|CPU|Intel Core i5-10300H|
 |GPU|Intel(R) UHD Graphics(UHD 630)|
 |dGPU|NVIDIA GTX 1650(disabled)|
 |WLAN\Bluetooth|Intel(R) AX201
