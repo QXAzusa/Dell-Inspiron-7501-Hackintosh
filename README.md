@@ -18,7 +18,7 @@ dGPU is disabled because no driver can use
 
 ## Changelog
 ### 2024.08.01
-Using with macOS Sonoma 14.4
+Work on macOS Sonoma 14.4
  - Upgrade OpenCore & Kexts
  - Bluetooth is working now
  - Fix Screen-Backlight not working for about 3 minutes at startup
